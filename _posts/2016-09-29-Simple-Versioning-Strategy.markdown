@@ -31,7 +31,8 @@ The use of feature branches are not recommended as they won't be built before be
 The concept of toggles is recommended to enable/disable features ongoing development - but those toggles should be deleted as soon as the feature is ready.
 
 ## Setup
-Please find below an example of a simple set up using Maven and Jenkins.
+Please find below an example of a simple set up using Maven and Jenkins.  
+
 ### Maven pom.xml
 ```
 <version>0.1.${revision}</version>
