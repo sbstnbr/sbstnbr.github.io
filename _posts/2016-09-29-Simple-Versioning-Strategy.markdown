@@ -41,7 +41,7 @@ Please find below an example of a simple set up using Maven and Jenkins.
        	<revision>0-SNAPSHOT</revision>
 </properties>
 ```
-And for tagging
+And for tagging  
 ```
 <plugin>
 	<artifactId>maven-scm-plugin</artifactId>
